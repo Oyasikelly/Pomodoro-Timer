@@ -1,5 +1,5 @@
 import React from "react";
-import "../scss/components/Controls.scss";
+import "../scss/components/controls.scss";
 
 const Controls = ({
   breakLength,
